@@ -64,4 +64,4 @@ jeorjie-voucher/
 
 This project is for personal use.
 
-If you end up using this or adding your own twist, I'd love to see it. Happy gifting!
+If you end up using this or adding your own twist, I'd love to see it.
