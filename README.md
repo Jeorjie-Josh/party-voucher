@@ -1,4 +1,4 @@
-# 🎄 Jeorjie Voucher Website
+# 🎄 Party Voucher Website
 
 A small side project I made with Cursor for a family gift. Nothing too serious—just an interactive voucher page with music, animations, and a bit of confetti.
 If it inspires your own version, feel free to fork it and make it your own.
